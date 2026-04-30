@@ -113,8 +113,8 @@ soroban contract invoke \
 
 ## Deployed Contract Link
 
-🔗 https://stellar.expert/explorer/testnet/tx/825cd546829c89f894f7db1a1d4eadc50e09dba3fb39e2b3c9e502591e3e0a8f
-🔗 https://lab.stellar.org/r/testnet/contract/CDP6SBLJSWTZQJQABOWONE4QTNCNX2RRGZJNNP7UBAJV24F5PXSZ6ZXT
+[1] https://stellar.expert/explorer/testnet/tx/825cd546829c89f894f7db1a1d4eadc50e09dba3fb39e2b3c9e502591e3e0a8f
+[2] https://lab.stellar.org/r/testnet/contract/CDP6SBLJSWTZQJQABOWONE4QTNCNX2RRGZJNNP7UBAJV24F5PXSZ6ZXT
 
 ## License
 
